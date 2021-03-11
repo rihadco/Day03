@@ -1,13 +1,11 @@
 function main() {
     
     // Only change code below this line
-
-    var x;
-    x = 10;
-    var y;
-    y=10;
-    return [x, y]
     
+    var x = 10;
+    x = y
+    return [x, y];
+
     // Only change code above this line
 
 
